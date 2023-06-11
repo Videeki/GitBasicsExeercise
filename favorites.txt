@@ -1,3 +1,8 @@
-Pizza
-Chicken with rise
-Noodle
+|Foods               |Movies             |
+|====================|===================|
+|Pizza               |Die Hard           |
+|Chicken with rise   |Naked gun          |
+|Noodle              |Ace Ventura        |
+
+
+
